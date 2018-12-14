@@ -1,0 +1,45 @@
+.. include:: def.rst
+.. index:: pair: enum; io.DeviceMonitorMiStartFlags
+.. _doxid-type_io_devicemonitormistartflags:
+.. _cid-io.devicemonitormistartflags:
+
+bitflag enum io.DeviceMonitorMiStartFlags
+=========================================
+
+
+
+
+
+.. _doxid-enum_member_io_devicemonitormistartflags_windows:
+.. _cid-io.devicemonitormistartflags.windows:
+.. _doxid-enum_member_io_devicemonitormistartflags_posix:
+.. _cid-io.devicemonitormistartflags.posix:
+.. _doxid-enum_member_io_devicemonitormistartflags_linux:
+.. _cid-io.devicemonitormistartflags.linux:
+.. _doxid-enum_member_io_devicemonitormistartflags_bsd:
+.. _cid-io.devicemonitormistartflags.bsd:
+.. _doxid-enum_member_io_devicemonitormistartflags_darwin:
+.. _cid-io.devicemonitormistartflags.darwin:
+.. _doxid-enum_member_io_devicemonitormistartflags_x86:
+.. _cid-io.devicemonitormistartflags.x86:
+.. _doxid-enum_member_io_devicemonitormistartflags_amd64:
+.. _cid-io.devicemonitormistartflags.amd64:
+.. _doxid-enum_member_io_devicemonitormistartflags_arm32:
+.. _cid-io.devicemonitormistartflags.arm32:
+.. _doxid-enum_member_io_devicemonitormistartflags_arm64:
+.. _cid-io.devicemonitormistartflags.arm64:
+.. ref-code-block:: jancy
+	:class: overview-code-block
+
+	// enum values
+
+	Windows 
+	Posix 
+	Linux 
+	Bsd 
+	Darwin 
+	X86 = 0x0100
+	Amd64 
+	Arm32 
+	Arm64 
+

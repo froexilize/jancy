@@ -1,0 +1,27 @@
+.. include:: def.rst
+.. index:: pair: enum; io.DeviceMonitorMiMsgCode
+.. _doxid-type_io_devicemonitormimsgcode:
+.. _cid-io.devicemonitormimsgcode:
+
+enum io.DeviceMonitorMiMsgCode
+==============================
+
+
+
+
+
+.. _doxid-enum_member_io_devicemonitormimsgcode_error:
+.. _cid-io.devicemonitormimsgcode.error:
+.. _doxid-enum_member_io_devicemonitormimsgcode_start:
+.. _cid-io.devicemonitormimsgcode.start:
+.. _doxid-enum_member_io_devicemonitormimsgcode_notification:
+.. _cid-io.devicemonitormimsgcode.notification:
+.. ref-code-block:: jancy
+	:class: overview-code-block
+
+	// enum values
+
+	Error 
+	Start 
+	Notification 
+

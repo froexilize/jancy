@@ -1,0 +1,24 @@
+.. include:: def.rst
+.. index:: pair: enum; std.GuidStringFlags
+.. _doxid-type_std_guidstringflags:
+.. _cid-std.guidstringflags:
+
+bitflag enum std.GuidStringFlags
+================================
+
+
+
+
+
+.. _doxid-enum_member_std_guidstringflags_uppercase:
+.. _cid-std.guidstringflags.uppercase:
+.. _doxid-enum_member_std_guidstringflags_curlybraces:
+.. _cid-std.guidstringflags.curlybraces:
+.. ref-code-block:: jancy
+	:class: overview-code-block
+
+	// enum values
+
+	UpperCase 
+	CurlyBraces 
+
